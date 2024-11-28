@@ -1,0 +1,2 @@
+It has following parametrs AirTemp; Azimuth;	DewpointTemp;	Dhi;	Dni;	Ebh;	Ghi;	GtiFixedTilt;	GtiTracking;	RelativeHumidity;	WindSpeed10m;	Zenith 
+and the data is collect from Solcast website. The time zone of the data set is in Zulu.
